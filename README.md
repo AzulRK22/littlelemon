@@ -6,10 +6,10 @@ It includes onboarding, user profile management, menu browsing with Core Data pe
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="onboarding.png" width="270" />
-  <img src="home.png" width="270" />
-  <img src="detail.png" width="270" />
-  <img src="profile.png" width="270" />
+  <img src="onboarding.png" width="200" />
+  <img src="home.png" width="200" />
+  <img src="detail.png" width="200" />
+  <img src="profile.png" width="200" />
 </p>
 ## ✨ Features
 

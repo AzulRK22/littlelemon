@@ -5,10 +5,10 @@ It includes onboarding, user profile management, menu browsing with Core Data pe
 
 ## 📸 Screenshots
 
-![Onboarding](readme/onboarding.png)
-![Home](readme/home.png)
-![Dish Detail](readme/detail.png)
-![Profile](readme/profile.png)
+![Onboarding](onboarding.png)
+![Home](home.png)
+![Dish Detail](detail.png)
+![Profile](profile.png)
 
 ## ✨ Features
 
